@@ -176,6 +176,10 @@ The server runs with multi-threaded CPU inference out of the box. NVIDIA GPU acc
 
 To build the image locally from a release archive, see the [`Dockerfile`](Dockerfile).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/XianScan/)
+
 ---
 
 <a id="browser-web-extension"></a>
